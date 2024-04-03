@@ -9,7 +9,7 @@
 
 <ul>
   <li><a href="https://github.com/samrids99/book_to_buyer">Book to Buyer</a> : an Airbnb clone.</li>
-  <li><a href="https://github.com/dumi999/Tube2Trail>Tube2Trail</a> : a meetup like app tailored to the adventurer.</li>
+  <li><a href="https://github.com/dumi999/Tube2Trail">Tube2Trail</a> : a meetup like app tailored to the adventurer.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
