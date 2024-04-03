@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Ridsdale</h1>
 <h3 align="center">A passionate Junior Web Developer from Manchester, UK</h3>
 
-- 🌱 I’m currently improving **my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
+- 🌱 I’m currently perfecting **my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
 - 📫 How to reach me **samridsdale108@gmail.com**
 
