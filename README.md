@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sam Ridsdale</h1>
 <h3 align="center">A passionate Junior Web Developer from Manchester, UK</h3>
 
-- 🌱 I’m currently perfecting **my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
+🌱 I’m currently perfecting **my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
-- 📫 How to reach me **samridsdale108@gmail.com**
+📫 How to reach me **samridsdale108@gmail.com**
 
-- <p>My bootcamp projects :</p>
+<p>My bootcamp projects :</p>
 
 <ul>
   <li><a href="https://github.com/samrids99/book_to_buyer">Book to Buyer</a> : an Airbnb clone.</li>
