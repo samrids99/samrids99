@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Ridsdale</h1>
-<h3 align="center">A passionate Junior Web Developer from Manchester, UK</h3>
+<h3 align="center">A passionate Junior Web Developer from Huddersfield, UK</h3>
 
-🌱 I’m currently perfecting **my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
+🌱 I’m currently perfecting **my skills on C#, Angular, CSS and JavaScript.**
 
 📫 How to reach me **samridsdale108@gmail.com**
 
@@ -24,10 +24,9 @@
 
 ```javascript
 const samRidsdale = {
-  availableForHire: true,
   education: "Le Wagon, a 9-week full-time intensive coding bootcamp",
   otherAlias: "Junior Full Stack Developer",
-  codesIn: ["HTML", "CSS", "Ruby"],
-  currentlylearning: ["Ruby on Rails", "JavaScript ES6", "SQL"],
+  codesIn: ["HTML", "CSS", "Ruby", "C#"],
+  currentlylearning: ["C#", "Angular", "JavaScript ES6", "SQL"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Wordpress"],
 }
